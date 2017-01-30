@@ -1,2 +1,0 @@
-# SampleWork
-Sample Work
