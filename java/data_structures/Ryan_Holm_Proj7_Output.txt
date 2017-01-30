@@ -1,0 +1,30 @@
+dnoepo@oal:~/Documents/307/307Proj7$ javac CM307Heap.java 
+dnoepo@oal:~/Documents/307/307Proj7$ java CM307Heap 
+a
+a
+a
+a
+and
+blind
+carafe
+cousin
+glass
+glass
+in
+is
+kind
+that
+1
+2
+3
+10
+20
+30
+100
+200
+300
+1000
+2000
+3000
+dnoepo@oal:~/Documents/307/307Proj7$ 
+
